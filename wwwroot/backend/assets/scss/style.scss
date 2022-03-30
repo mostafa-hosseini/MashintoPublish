@@ -1,0 +1,235 @@
+/*-------------------------------------------------------------------
+  ===== Table of Contents =====
+
+  * Bootstrap functions
+  * Template variables
+  * SCSS Compass Functions
+  * Boostrap Main SCSS
+  * Template mixins
+    + Animation Mixins
+    + Background Mixins
+    + Badge Mixins
+    + Button Mixins
+    + Miscellaneous Mixins
+    + BlockQuote Mixins
+    + Cards Mixins
+    + Color Functions Mixins
+    + Tooltips
+    + popovers
+  * Core Styles
+    + Reset Styles
+    + Fonts
+    + Functions
+    + Backgrounds
+    + Typography
+    + Miscellaneous
+    + Footer
+    + Layouts
+    + Utilities
+    + Demo styles
+  * Components
+    + Accordions
+    + Badges
+    + Bootstrap Alerts
+    + Boostrap Progress
+    + Buttons
+    + Breadcrumbs
+    + Cards
+    + Checkboxes and Radios
+    + Dropdowns
+    + Forms
+    + Google maps
+    + Icons
+    + Loaders
+    + Lists
+    + Modals
+    + Pagination
+    + Popover
+    + Preview
+    + Tables
+    + Tabs
+    + Timeline
+    + Todo List
+    + Tooltips
+    + User Profile
+    + Pricing table
+  * Email
+    + Mail Sidebar
+    + Mail List Container
+    + Message Content
+  * Plugin Overrides
+    + Ace Editor
+    + Avgrund Popup
+    + Bootstrap Tour
+    + Chartist
+    + CodeMirror
+    + Colcade
+    + Colorpicker
+    + Context Menu
+    + Data Tables
+    + Datepicker
+    + Dropify
+    + Dropzone
+    + Flot chart
+    + Full Calendar
+    + Google Charts
+    + Icheck
+    + Jquery File Upload
+    + Js-grid
+    + Jvectormap
+    + Light Gallery
+    + Listify
+    + No-ui-slider
+    + Owl-carousel
+    + Progressbar-js
+    + Pws-tabs
+    + Quill Editor
+    + Rating
+    + Select2
+    + Summernote Editor
+    + SweetAlert
+    + Switchery
+    + Tags
+    + TinyMCE Editor
+    + Toast
+    + Typeahead
+    + Wysi Editor
+    + X-editable
+    + Wizard
+  * Landing screens
+    + Auth
+    + Lock Screen
+-------------------------------------------------------------------*/
+
+/*-------------------------------------------------------------------*/
+/* === Import Bootstrap functions and variables === */
+@import "../../../../node_modules/bootstrap/scss/functions";
+
+@import "../../../../node_modules/bootstrap/scss/variables";
+
+/*-------------------------------------------------------------------*/
+/* === Import template variables === */
+@import "../scss/variables";
+
+/*-------------------------------------------------------------------*/
+/* === SCSS Compass Functions === */
+@import "../../../../node_modules/compass-mixins/lib/compass";
+@import "../../../../node_modules/compass-mixins/lib/animate";
+
+/*-------------------------------------------------------------------*/
+/* === Boostrap Main SCSS === */
+@import "../../../../node_modules/bootstrap/scss/bootstrap";
+
+/*-------------------------------------------------------------------*/
+/* === Template mixins === */
+@import "../scss/components/mixins/misc";
+@import "../scss/components/mixins/animation";
+@import "../scss/components/mixins/background";
+@import "../scss/components/mixins/badges";
+@import "../scss/components/mixins/blockqoute";
+@import "../scss/components/mixins/buttons";
+@import "../scss/components/mixins/breadcrumbs";
+@import "../scss/components/mixins/cards";
+@import "../scss/components/mixins/no-ui-slider";
+@import "../scss/components/mixins/pagination";
+@import "../scss/components/mixins/popovers";
+@import "../scss/components/mixins/tooltips";
+
+/*-------------------------------------------------------------------*/
+/* === Core Styles === */
+@import "../scss/components/reset";
+// @import "../scss/components/fonts";
+@import "../scss/components/functions";
+@import "../scss/components/background";
+@import "../scss/components/typography";
+@import "../scss/components/misc";
+@import "../scss/components/footer";
+@import "../scss/components/utilities";
+@import "../scss/components/demo";
+
+/*-------------------------------------------------------------------*/
+/* === ../scss/Components === */
+// @import "../scss/components/accordions";
+@import "../scss/components/badges";
+// @import "../scss/components/bootstrap-alerts";
+// @import "../scss/components/bootstrap-progress";
+@import "../scss/components/buttons";
+// @import "../scss/components/breadcrumbs";
+@import "../scss/components/cards";
+@import "../scss/components/checkbox-radio";
+@import "../scss/components/dropdown";
+@import "../scss/components/forms";
+// @import "../scss/components/google-maps";
+@import "../scss/components/icons";
+@import "../scss/components/loaders/loaders";
+// @import "../scss/components/lists";
+// @import "../scss/components/modals";
+// @import "../scss/components/pagination";
+// @import "../scss/components/portfolio";
+// @import "../scss/components/popover";
+@import "../scss/components/preview";
+@import "../scss/components/tables";
+@import "../scss/components/tabs";
+// @import "../scss/components/timeline";
+@import "../scss/components/todo-list";
+// @import "../scss/components/tooltips";
+// @import "../scss/components/user-profile";
+// @import "../scss/components/pricing-table";
+
+/*-------------------------------------------------------------------*/
+/* === Email === */
+// @import "../modern-dark/shared/components/mail-components/mail-sidebar";
+// @import "../modern-dark/shared/components/mail-components/mail-list-container";
+// @import "../modern-dark/shared/components/mail-components/messagecontent";
+
+/*-------------------------------------------------------------------*/
+/* === Plugin overrides === */
+@import "../scss/components/plugin-overrides/ace";
+@import "../scss/components/plugin-overrides/avgrund";
+@import "../scss/components/plugin-overrides/chartist";
+@import "../scss/components/plugin-overrides/c3";
+@import "../scss/components/plugin-overrides/codemirror";
+@import "../scss/components/plugin-overrides/colcade";
+@import "../scss/components/plugin-overrides/colorpicker";
+@import "../scss/components/plugin-overrides/context-menu";
+@import "../scss/components/plugin-overrides/data-tables";
+@import "../scss/components/plugin-overrides/datepicker";
+@import "../scss/components/plugin-overrides/dropify";
+@import "../scss/components/plugin-overrides/dropzone";
+@import "../scss/components/plugin-overrides/flot-chart";
+@import "../scss/components/plugin-overrides/full-calendar";
+@import "../scss/components/plugin-overrides/google-charts";
+@import "../scss/components/plugin-overrides/icheck";
+@import "../scss/components/plugin-overrides/jquery-file-upload";
+@import "../scss/components/plugin-overrides/js-grid";
+@import "../scss/components/plugin-overrides/jvectormap";
+@import "../scss/components/plugin-overrides/justguage.scss";
+@import "../scss/components/plugin-overrides/light-gallery";
+@import "../scss/components/plugin-overrides/listify";
+@import "../scss/components/plugin-overrides/morris.scss";
+@import "../scss/components/plugin-overrides/no-ui-slider";
+@import "../scss/components/plugin-overrides/owl-carousel";
+@import "../scss/components/plugin-overrides/progressbar-js";
+@import "../scss/components/plugin-overrides/pws-tabs";
+@import "../scss/components/plugin-overrides/quill";
+@import "../scss/components/plugin-overrides/rating";
+@import "../scss/components/plugin-overrides/select2";
+@import "../scss/components/plugin-overrides/summernote";
+@import "../scss/components/plugin-overrides/sweet-alert";
+@import "../scss/components/plugin-overrides/switchery";
+@import "../scss/components/plugin-overrides/tags";
+@import "../scss/components/plugin-overrides/tinymce";
+@import "../scss/components/plugin-overrides/toast";
+@import "../scss/components/plugin-overrides/typeahead";
+@import "../scss/components/plugin-overrides/wysieditor";
+@import "../scss/components/plugin-overrides/x-editable";
+@import "../scss/components/plugin-overrides/wizard";
+
+/*-------------------------------------------------------------------*/
+/* === Landing screens === */
+@import "../scss/components/landing-screens/auth";
+
+@import "../scss/navbar";
+@import "../scss/sidebar";
+@import "../scss/layouts";
+@import "../scss/vertical/vertical-wrapper";

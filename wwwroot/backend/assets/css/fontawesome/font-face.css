@@ -1,0 +1,15 @@
+/*
+      www.OnlineWebFonts.Com 
+      You must credit the author Copy this link on your web 
+      <div>Font made from <a href="http://www.onlinewebfonts.com">oNline Web Fonts</a>is licensed by CC BY 3.0</div>
+      OR
+      <a href="http://www.onlinewebfonts.com">oNline Web Fonts</a>
+*/
+@font-face {font-family: "IRANSansWeb";
+    src: url("http://db.onlinewebfonts.com/t/002254488ce1877d55ad3693e527ad1e.eot"); /* IE9*/
+    src: url("http://db.onlinewebfonts.com/t/002254488ce1877d55ad3693e527ad1e.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+    url("http://db.onlinewebfonts.com/t/002254488ce1877d55ad3693e527ad1e.woff2") format("woff2"), /* chrome firefox */
+    url("http://db.onlinewebfonts.com/t/002254488ce1877d55ad3693e527ad1e.woff") format("woff"), /* chrome firefox */
+    url("http://db.onlinewebfonts.com/t/002254488ce1877d55ad3693e527ad1e.ttf") format("truetype"), /* chrome firefox opera Safari, Android, iOS 4.2+*/
+    url("http://db.onlinewebfonts.com/t/002254488ce1877d55ad3693e527ad1e.svg#IRANSansWeb") format("svg"); /* iOS 4.1- */
+}
