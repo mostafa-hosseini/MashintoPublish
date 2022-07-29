@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.545d9cfe.css",
-    "main.js": "/static/js/main.7dc1ae7e.js",
+    "main.css": "/static/css/main.b435aafe.css",
+    "main.js": "/static/js/main.8f955da5.js",
     "static/js/787.199fd234.chunk.js": "/static/js/787.199fd234.chunk.js",
     "static/media/13665.jpg": "/static/media/13665.5bb62ceda21e4d276758.jpg",
     "static/media/cls_iridium-silver-metallic.png": "/static/media/cls_iridium-silver-metallic.cfe4b1d3d13be484d4b1.png",
@@ -10,17 +10,18 @@
     "static/media/001_c31.png": "/static/media/001_c31.1116d51b654bc61b66c5.png",
     "static/media/2022_bmw_x3_xdrive30i_001_c3z.png": "/static/media/2022_bmw_x3_xdrive30i_001_c3z.a2ecb7d2122e8fb080be.png",
     "static/media/2022_bmw_serie-5_530i-xdrive_001_c3z.png": "/static/media/2022_bmw_serie-5_530i-xdrive_001_c3z.a4d8a49c52b3a020702b.png",
-    "static/media/hachback.png": "/static/media/hachback.c08d53dcdcd60ab46556.png",
     "static/media/png": "/static/media/f524ebacc28b21e7249cdd8ee9c408d8.be8136dfc11d99e01611.png",
     "static/media/toyota-logo.png": "/static/media/toyota-logo.a8c72b8c11d8e5d12293.png",
     "static/media/2022_bmw_m4-coupe_base_001_c3z.png": "/static/media/2022_bmw_m4-coupe_base_001_c3z.e180d71a5b60db880789.png",
     "static/media/porsche-logo.jpg": "/static/media/porsche-logo.8041369291b3bff979f3.jpg",
     "static/media/news-image-2.jpg": "/static/media/news-image-2.e32a03a6359a4d95e357.jpg",
     "static/media/cla-45.jpg": "/static/media/cla-45.f3bf2835d2ad21fa5405.jpg",
+    "static/media/hachback.png": "/static/media/hachback.dc490ede27deedaab2b5.png",
     "static/media/Mercedes-Benz.jpg": "/static/media/Mercedes-Benz.63341a4cccbbd26931ba.jpg",
     "static/media/toyota-chr.jpeg": "/static/media/toyota-chr.42687b3a5dc75ea1376c.jpeg",
     "static/media/masserati-1.jpg": "/static/media/masserati-1.291f12fc9844cb1d7764.jpg",
     "static/media/Volkswagen-emblem.jpg": "/static/media/Volkswagen-emblem.c2f812bdb5db2dc3361c.jpg",
+    "static/media/chart.png": "/static/media/chart.dd80017de6a8a0f00aba.png",
     "static/media/718.jpeg": "/static/media/718.a9d5abdbcdfe7c69eddb.jpeg",
     "static/media/mashintologo.svg": "/static/media/mashintologo.c1d2a938c6c22f1e6d7fa6aadf78755e.svg",
     "static/media/4series.jpeg": "/static/media/4series.0180a8a7317c3d6e95b7.jpeg",
@@ -41,21 +42,22 @@
     "static/media/news-image-4.jpg": "/static/media/news-image-4.fb21c5e7c4505dfbd90d.jpg",
     "static/media/ford-logo.jpg": "/static/media/ford-logo.54d6a18525aa941f7508.jpg",
     "static/media/chevrolet-logo.jpg": "/static/media/chevrolet-logo.3895d48e11c9367c0ad7.jpg",
-    "static/media/950476.png": "/static/media/950476.1b57ef14dee138938ce2.png",
+    "static/media/950476.png": "/static/media/950476.3cd85065bf61038d59cc.png",
     "static/media/men.jpg": "/static/media/men.eb56fb22b04e9bfc2a38.jpg",
+    "static/media/1820633.png": "/static/media/1820633.325ec2c2bec2590fb63e.png",
     "static/media/van.png": "/static/media/van.298e930609ddb18d0334.png",
-    "static/media/1820633.png": "/static/media/1820633.ee7d7cec6ac806f1cc2f.png",
     "static/media/suv.png": "/static/media/suv.0a5c088047ba467a6f81.png",
     "static/media/hatchback.png": "/static/media/hatchback.3b2f77f85795dbabac0f.png",
     "static/media/sedan.png": "/static/media/sedan.3fcc37fc43804d69c189.png",
+    "static/media/Pricesvg.svg": "/static/media/Pricesvg.8be639d16015aad64a7be6f79c2a4a21.svg",
     "static/media/coupe.png": "/static/media/coupe.6a07984331d576a4f53e.png",
     "index.html": "/index.html",
-    "main.545d9cfe.css.map": "/static/css/main.545d9cfe.css.map",
-    "main.7dc1ae7e.js.map": "/static/js/main.7dc1ae7e.js.map",
+    "main.b435aafe.css.map": "/static/css/main.b435aafe.css.map",
+    "main.8f955da5.js.map": "/static/js/main.8f955da5.js.map",
     "787.199fd234.chunk.js.map": "/static/js/787.199fd234.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.545d9cfe.css",
-    "static/js/main.7dc1ae7e.js"
+    "static/css/main.b435aafe.css",
+    "static/js/main.8f955da5.js"
   ]
 }
