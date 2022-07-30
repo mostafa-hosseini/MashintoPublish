@@ -1,21 +1,28 @@
 {
   "files": {
     "main.css": "/static/css/main.b435aafe.css",
-    "main.js": "/static/js/main.8f955da5.js",
+    "main.js": "/static/js/main.efce27c9.js",
     "static/js/787.199fd234.chunk.js": "/static/js/787.199fd234.chunk.js",
     "static/media/13665.jpg": "/static/media/13665.5bb62ceda21e4d276758.jpg",
     "static/media/cls_iridium-silver-metallic.png": "/static/media/cls_iridium-silver-metallic.cfe4b1d3d13be484d4b1.png",
     "static/media/PeydaMedium.ttf": "/static/media/PeydaMedium.5096aff1eb4d5054ae68.ttf",
     "static/media/PeydaBold.ttf": "/static/media/PeydaBold.f159c5f311fcdeaead0c.ttf",
+    "static/media/sedan.png": "/static/media/sedan.eb90484ad059e6bff24b.png",
     "static/media/001_c31.png": "/static/media/001_c31.1116d51b654bc61b66c5.png",
     "static/media/2022_bmw_x3_xdrive30i_001_c3z.png": "/static/media/2022_bmw_x3_xdrive30i_001_c3z.a2ecb7d2122e8fb080be.png",
+    "static/media/van.png": "/static/media/van.13c25a7b06578e6fc99a.png",
     "static/media/2022_bmw_serie-5_530i-xdrive_001_c3z.png": "/static/media/2022_bmw_serie-5_530i-xdrive_001_c3z.a4d8a49c52b3a020702b.png",
     "static/media/png": "/static/media/f524ebacc28b21e7249cdd8ee9c408d8.be8136dfc11d99e01611.png",
     "static/media/toyota-logo.png": "/static/media/toyota-logo.a8c72b8c11d8e5d12293.png",
     "static/media/2022_bmw_m4-coupe_base_001_c3z.png": "/static/media/2022_bmw_m4-coupe_base_001_c3z.e180d71a5b60db880789.png",
+    "static/media/pickup.png": "/static/media/pickup.40240e019b7bff43771e.png",
     "static/media/porsche-logo.jpg": "/static/media/porsche-logo.8041369291b3bff979f3.jpg",
+    "static/media/hatchback.png": "/static/media/hatchback.a3e63cea0080d8e9e700.png",
     "static/media/news-image-2.jpg": "/static/media/news-image-2.e32a03a6359a4d95e357.jpg",
     "static/media/cla-45.jpg": "/static/media/cla-45.f3bf2835d2ad21fa5405.jpg",
+    "static/media/coupe.png": "/static/media/coupe.ff3b9eed695c23dcd74c.png",
+    "static/media/suv.png": "/static/media/suv.94b9ca8f30a79208eaf1.png",
+    "static/media/convertible.png": "/static/media/convertible.f05f22ada4e4fbac8128.png",
     "static/media/hachback.png": "/static/media/hachback.dc490ede27deedaab2b5.png",
     "static/media/Mercedes-Benz.jpg": "/static/media/Mercedes-Benz.63341a4cccbbd26931ba.jpg",
     "static/media/toyota-chr.jpeg": "/static/media/toyota-chr.42687b3a5dc75ea1376c.jpeg",
@@ -45,19 +52,14 @@
     "static/media/950476.png": "/static/media/950476.3cd85065bf61038d59cc.png",
     "static/media/men.jpg": "/static/media/men.eb56fb22b04e9bfc2a38.jpg",
     "static/media/1820633.png": "/static/media/1820633.325ec2c2bec2590fb63e.png",
-    "static/media/van.png": "/static/media/van.298e930609ddb18d0334.png",
-    "static/media/suv.png": "/static/media/suv.0a5c088047ba467a6f81.png",
-    "static/media/hatchback.png": "/static/media/hatchback.3b2f77f85795dbabac0f.png",
-    "static/media/sedan.png": "/static/media/sedan.3fcc37fc43804d69c189.png",
     "static/media/Pricesvg.svg": "/static/media/Pricesvg.8be639d16015aad64a7be6f79c2a4a21.svg",
-    "static/media/coupe.png": "/static/media/coupe.6a07984331d576a4f53e.png",
     "index.html": "/index.html",
     "main.b435aafe.css.map": "/static/css/main.b435aafe.css.map",
-    "main.8f955da5.js.map": "/static/js/main.8f955da5.js.map",
+    "main.efce27c9.js.map": "/static/js/main.efce27c9.js.map",
     "787.199fd234.chunk.js.map": "/static/js/787.199fd234.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b435aafe.css",
-    "static/js/main.8f955da5.js"
+    "static/js/main.efce27c9.js"
   ]
 }
