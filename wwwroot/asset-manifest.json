@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.fd69b25b.css",
-    "main.js": "/static/js/main.b30b7cfc.js",
+    "main.css": "/static/css/main.2e9607ea.css",
+    "main.js": "/static/js/main.3b2cb9c7.js",
     "static/js/787.199fd234.chunk.js": "/static/js/787.199fd234.chunk.js",
     "static/media/13665.jpg": "/static/media/13665.5bb62ceda21e4d276758.jpg",
     "static/media/cls_iridium-silver-metallic.png": "/static/media/cls_iridium-silver-metallic.cfe4b1d3d13be484d4b1.png",
@@ -18,7 +18,6 @@
     "static/media/pickup.png": "/static/media/pickup.40240e019b7bff43771e.png",
     "static/media/porsche-logo.jpg": "/static/media/porsche-logo.8041369291b3bff979f3.jpg",
     "static/media/hatchback.png": "/static/media/hatchback.a3e63cea0080d8e9e700.png",
-    "static/media/news-image-2.jpg": "/static/media/news-image-2.e32a03a6359a4d95e357.jpg",
     "static/media/cla-45.jpg": "/static/media/cla-45.f3bf2835d2ad21fa5405.jpg",
     "static/media/coupe.png": "/static/media/coupe.ff3b9eed695c23dcd74c.png",
     "static/media/suv.png": "/static/media/suv.94b9ca8f30a79208eaf1.png",
@@ -33,12 +32,10 @@
     "static/media/mashintologo.svg": "/static/media/mashintologo.c1d2a938c6c22f1e6d7fa6aadf78755e.svg",
     "static/media/4series.jpeg": "/static/media/4series.0180a8a7317c3d6e95b7.jpeg",
     "static/media/masserati.jpg": "/static/media/masserati.79db6ce8069a878176e4.jpg",
-    "static/media/news-image-3.jpg": "/static/media/news-image-3.8bb2e73332b991afa8ad.jpg",
     "static/media/z4.jpeg": "/static/media/z4.52ca330051380e1ff204.jpeg",
     "static/media/bmw-logo.jpg": "/static/media/bmw-logo.0f7461b6da91508dad15.jpg",
     "static/media/macan.jpeg": "/static/media/macan.307044f78841bfdefdfc.jpeg",
     "static/media/BMW-8.png": "/static/media/BMW-8.bb38f00752ebd096e0d2.png",
-    "static/media/news-image-1.jpg": "/static/media/news-image-1.872c8be53cd32cd68279.jpg",
     "static/media/peyda-regular.woff": "/static/media/peyda-regular.1cc070b6b84c4805711a.woff",
     "static/media/peyda-bold.woff": "/static/media/peyda-bold.8592b480060d073e5ad9.woff",
     "static/media/Iran-Khodro-logo.jpg": "/static/media/Iran-Khodro-logo.413c7852912fcbc68224.jpg",
@@ -46,7 +43,6 @@
     "static/media/Saipa-logo.jpg": "/static/media/Saipa-logo.2deeb78a9698a8c2c1cc.jpg",
     "static/media/sport-car-vector.jpg": "/static/media/sport-car-vector.668eede106b9159571ec.jpg",
     "static/media/peyda-bold.woff2": "/static/media/peyda-bold.ff40ad279997e73ae5b4.woff2",
-    "static/media/news-image-4.jpg": "/static/media/news-image-4.fb21c5e7c4505dfbd90d.jpg",
     "static/media/ford-logo.jpg": "/static/media/ford-logo.54d6a18525aa941f7508.jpg",
     "static/media/chevrolet-logo.jpg": "/static/media/chevrolet-logo.3895d48e11c9367c0ad7.jpg",
     "static/media/950476.png": "/static/media/950476.3cd85065bf61038d59cc.png",
@@ -54,12 +50,12 @@
     "static/media/1820633.png": "/static/media/1820633.325ec2c2bec2590fb63e.png",
     "static/media/Pricesvg.svg": "/static/media/Pricesvg.8be639d16015aad64a7be6f79c2a4a21.svg",
     "index.html": "/index.html",
-    "main.fd69b25b.css.map": "/static/css/main.fd69b25b.css.map",
-    "main.b30b7cfc.js.map": "/static/js/main.b30b7cfc.js.map",
+    "main.2e9607ea.css.map": "/static/css/main.2e9607ea.css.map",
+    "main.3b2cb9c7.js.map": "/static/js/main.3b2cb9c7.js.map",
     "787.199fd234.chunk.js.map": "/static/js/787.199fd234.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fd69b25b.css",
-    "static/js/main.b30b7cfc.js"
+    "static/css/main.2e9607ea.css",
+    "static/js/main.3b2cb9c7.js"
   ]
 }
