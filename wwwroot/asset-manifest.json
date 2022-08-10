@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.0f006fdd.css",
-    "main.js": "/static/js/main.66f2e24b.js",
+    "main.css": "/static/css/main.0dbfdf6a.css",
+    "main.js": "/static/js/main.cf348429.js",
     "static/js/787.199fd234.chunk.js": "/static/js/787.199fd234.chunk.js",
     "static/media/13665.jpg": "/static/media/13665.5bb62ceda21e4d276758.jpg",
     "static/media/cls_iridium-silver-metallic.png": "/static/media/cls_iridium-silver-metallic.cfe4b1d3d13be484d4b1.png",
@@ -24,6 +24,7 @@
     "static/media/chart.png": "/static/media/chart.dd80017de6a8a0f00aba.png",
     "static/media/718.jpeg": "/static/media/718.a9d5abdbcdfe7c69eddb.jpeg",
     "static/media/mashintologo.svg": "/static/media/mashintologo.c1d2a938c6c22f1e6d7fa6aadf78755e.svg",
+    "static/media/car-insurance.webp": "/static/media/car-insurance.bf9b650230c08239c5aa.webp",
     "static/media/4series.jpeg": "/static/media/4series.0180a8a7317c3d6e95b7.jpeg",
     "static/media/masserati.jpg": "/static/media/masserati.79db6ce8069a878176e4.jpg",
     "static/media/z4.jpeg": "/static/media/z4.52ca330051380e1ff204.jpeg",
@@ -49,12 +50,12 @@
     "static/media/1820633.png": "/static/media/1820633.325ec2c2bec2590fb63e.png",
     "static/media/Pricesvg.svg": "/static/media/Pricesvg.8be639d16015aad64a7be6f79c2a4a21.svg",
     "index.html": "/index.html",
-    "main.0f006fdd.css.map": "/static/css/main.0f006fdd.css.map",
-    "main.66f2e24b.js.map": "/static/js/main.66f2e24b.js.map",
+    "main.0dbfdf6a.css.map": "/static/css/main.0dbfdf6a.css.map",
+    "main.cf348429.js.map": "/static/js/main.cf348429.js.map",
     "787.199fd234.chunk.js.map": "/static/js/787.199fd234.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0f006fdd.css",
-    "static/js/main.66f2e24b.js"
+    "static/css/main.0dbfdf6a.css",
+    "static/js/main.cf348429.js"
   ]
 }
