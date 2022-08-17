@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/static/css/main.80948245.css",
-    "main.js": "/static/js/main.3a4b0870.js",
+    "main.css": "/static/css/main.13e0728f.css",
+    "main.js": "/static/js/main.45a88534.js",
     "static/js/787.199fd234.chunk.js": "/static/js/787.199fd234.chunk.js",
     "static/media/13665.jpg": "/static/media/13665.5bb62ceda21e4d276758.jpg",
     "static/media/cls_iridium-silver-metallic.png": "/static/media/cls_iridium-silver-metallic.cfe4b1d3d13be484d4b1.png",
     "static/media/PeydaMedium.ttf": "/static/media/PeydaMedium.5096aff1eb4d5054ae68.ttf",
     "static/media/PeydaBold.ttf": "/static/media/PeydaBold.f159c5f311fcdeaead0c.ttf",
-    "static/media/sedan.png": "/static/media/sedan.eb90484ad059e6bff24b.png",
+    "static/media/sedan.png": "/static/media/sedan.e088a581a25bc5755a32.png",
     "static/media/van.png": "/static/media/van.13c25a7b06578e6fc99a.png",
     "static/media/toyota-logo.png": "/static/media/toyota-logo.a8c72b8c11d8e5d12293.png",
     "static/media/pickup.png": "/static/media/pickup.40240e019b7bff43771e.png",
@@ -16,7 +16,6 @@
     "static/media/cla-45.jpg": "/static/media/cla-45.f3bf2835d2ad21fa5405.jpg",
     "static/media/coupe.png": "/static/media/coupe.ff3b9eed695c23dcd74c.png",
     "static/media/suv.png": "/static/media/suv.94b9ca8f30a79208eaf1.png",
-    "static/media/car-review.webp": "/static/media/car-review.1be1fc2628eedd27ed88.webp",
     "static/media/convertible.png": "/static/media/convertible.f05f22ada4e4fbac8128.png",
     "static/media/Mercedes-Benz.jpg": "/static/media/Mercedes-Benz.63341a4cccbbd26931ba.jpg",
     "static/media/toyota-chr.jpeg": "/static/media/toyota-chr.42687b3a5dc75ea1376c.jpeg",
@@ -25,7 +24,6 @@
     "static/media/chart.png": "/static/media/chart.dd80017de6a8a0f00aba.png",
     "static/media/718.jpeg": "/static/media/718.a9d5abdbcdfe7c69eddb.jpeg",
     "static/media/mashintologo.svg": "/static/media/mashintologo.c1d2a938c6c22f1e6d7fa6aadf78755e.svg",
-    "static/media/car-insurance.webp": "/static/media/car-insurance.bf9b650230c08239c5aa.webp",
     "static/media/4series.jpeg": "/static/media/4series.0180a8a7317c3d6e95b7.jpeg",
     "static/media/masserati.jpg": "/static/media/masserati.79db6ce8069a878176e4.jpg",
     "static/media/z4.jpeg": "/static/media/z4.52ca330051380e1ff204.jpeg",
@@ -51,12 +49,12 @@
     "static/media/1820633.png": "/static/media/1820633.325ec2c2bec2590fb63e.png",
     "static/media/Pricesvg.svg": "/static/media/Pricesvg.8be639d16015aad64a7be6f79c2a4a21.svg",
     "index.html": "/index.html",
-    "main.80948245.css.map": "/static/css/main.80948245.css.map",
-    "main.3a4b0870.js.map": "/static/js/main.3a4b0870.js.map",
+    "main.13e0728f.css.map": "/static/css/main.13e0728f.css.map",
+    "main.45a88534.js.map": "/static/js/main.45a88534.js.map",
     "787.199fd234.chunk.js.map": "/static/js/787.199fd234.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.80948245.css",
-    "static/js/main.3a4b0870.js"
+    "static/css/main.13e0728f.css",
+    "static/js/main.45a88534.js"
   ]
 }
