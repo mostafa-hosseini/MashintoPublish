@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.13e0728f.css",
-    "main.js": "/static/js/main.32b3f9fa.js",
+    "main.css": "/static/css/main.23d8553b.css",
+    "main.js": "/static/js/main.23888c4b.js",
     "static/js/787.199fd234.chunk.js": "/static/js/787.199fd234.chunk.js",
     "static/media/13665.jpg": "/static/media/13665.5bb62ceda21e4d276758.jpg",
     "static/media/cls_iridium-silver-metallic.png": "/static/media/cls_iridium-silver-metallic.cfe4b1d3d13be484d4b1.png",
@@ -10,12 +10,20 @@
     "static/media/sedan.png": "/static/media/sedan.e088a581a25bc5755a32.png",
     "static/media/van.png": "/static/media/van.13c25a7b06578e6fc99a.png",
     "static/media/toyota-logo.png": "/static/media/toyota-logo.a8c72b8c11d8e5d12293.png",
+    "static/media/banner8.jpg": "/static/media/banner8.2888bb9073fc9cd61903.jpg",
     "static/media/pickup.png": "/static/media/pickup.40240e019b7bff43771e.png",
     "static/media/porsche-logo.jpg": "/static/media/porsche-logo.8041369291b3bff979f3.jpg",
     "static/media/hatchback.png": "/static/media/hatchback.a3e63cea0080d8e9e700.png",
+    "static/media/banner1.jpg": "/static/media/banner1.387a04a57a221ddfb12b.jpg",
+    "static/media/banner4.jpg": "/static/media/banner4.8c4351d4c13f144b46e0.jpg",
+    "static/media/banner6.jpg": "/static/media/banner6.c6e29a1c09287a623216.jpg",
+    "static/media/banner2.jpg": "/static/media/banner2.bea23170878380113f2e.jpg",
+    "static/media/banner5.jpg": "/static/media/banner5.d434d2a4c8fece607014.jpg",
+    "static/media/banner3.jpg": "/static/media/banner3.1ca7bd4f4ae78c486456.jpg",
     "static/media/cla-45.jpg": "/static/media/cla-45.f3bf2835d2ad21fa5405.jpg",
     "static/media/coupe.png": "/static/media/coupe.ff3b9eed695c23dcd74c.png",
     "static/media/suv.png": "/static/media/suv.94b9ca8f30a79208eaf1.png",
+    "static/media/banner7.jpg": "/static/media/banner7.ee4f3fd2ec8f6ca7b456.jpg",
     "static/media/convertible.png": "/static/media/convertible.f05f22ada4e4fbac8128.png",
     "static/media/Mercedes-Benz.jpg": "/static/media/Mercedes-Benz.63341a4cccbbd26931ba.jpg",
     "static/media/toyota-chr.jpeg": "/static/media/toyota-chr.42687b3a5dc75ea1376c.jpeg",
@@ -49,12 +57,12 @@
     "static/media/1820633.png": "/static/media/1820633.325ec2c2bec2590fb63e.png",
     "static/media/Pricesvg.svg": "/static/media/Pricesvg.8be639d16015aad64a7be6f79c2a4a21.svg",
     "index.html": "/index.html",
-    "main.13e0728f.css.map": "/static/css/main.13e0728f.css.map",
-    "main.32b3f9fa.js.map": "/static/js/main.32b3f9fa.js.map",
+    "main.23d8553b.css.map": "/static/css/main.23d8553b.css.map",
+    "main.23888c4b.js.map": "/static/js/main.23888c4b.js.map",
     "787.199fd234.chunk.js.map": "/static/js/787.199fd234.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.13e0728f.css",
-    "static/js/main.32b3f9fa.js"
+    "static/css/main.23d8553b.css",
+    "static/js/main.23888c4b.js"
   ]
 }
