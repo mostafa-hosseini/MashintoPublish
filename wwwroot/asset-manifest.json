@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.db81f465.css",
-    "main.js": "/static/js/main.9195c555.js",
+    "main.css": "/static/css/main.ec2de9bf.css",
+    "main.js": "/static/js/main.65a0ee2f.js",
     "static/js/787.199fd234.chunk.js": "/static/js/787.199fd234.chunk.js",
     "static/media/13665.jpg": "/static/media/13665.5bb62ceda21e4d276758.jpg",
     "static/media/cls_iridium-silver-metallic.png": "/static/media/cls_iridium-silver-metallic.cfe4b1d3d13be484d4b1.png",
@@ -30,13 +30,9 @@
     "static/media/masserati-1.jpg": "/static/media/masserati-1.291f12fc9844cb1d7764.jpg",
     "static/media/Volkswagen-emblem.jpg": "/static/media/Volkswagen-emblem.c2f812bdb5db2dc3361c.jpg",
     "static/media/chart.png": "/static/media/chart.dd80017de6a8a0f00aba.png",
-    "static/media/718.jpeg": "/static/media/718.a9d5abdbcdfe7c69eddb.jpeg",
     "static/media/mashintologo.svg": "/static/media/mashintologo.c1d2a938c6c22f1e6d7fa6aadf78755e.svg",
-    "static/media/4series.jpeg": "/static/media/4series.0180a8a7317c3d6e95b7.jpeg",
     "static/media/masserati.jpg": "/static/media/masserati.79db6ce8069a878176e4.jpg",
-    "static/media/z4.jpeg": "/static/media/z4.52ca330051380e1ff204.jpeg",
     "static/media/bmw-logo.jpg": "/static/media/bmw-logo.0f7461b6da91508dad15.jpg",
-    "static/media/macan.jpeg": "/static/media/macan.307044f78841bfdefdfc.jpeg",
     "static/media/BMW-8.png": "/static/media/BMW-8.bb38f00752ebd096e0d2.png",
     "static/media/peyda-regular.woff": "/static/media/peyda-regular.1cc070b6b84c4805711a.woff",
     "static/media/peyda-bold.woff": "/static/media/peyda-bold.8592b480060d073e5ad9.woff",
@@ -57,12 +53,12 @@
     "static/media/1820633.png": "/static/media/1820633.325ec2c2bec2590fb63e.png",
     "static/media/Pricesvg.svg": "/static/media/Pricesvg.8be639d16015aad64a7be6f79c2a4a21.svg",
     "index.html": "/index.html",
-    "main.db81f465.css.map": "/static/css/main.db81f465.css.map",
-    "main.9195c555.js.map": "/static/js/main.9195c555.js.map",
+    "main.ec2de9bf.css.map": "/static/css/main.ec2de9bf.css.map",
+    "main.65a0ee2f.js.map": "/static/js/main.65a0ee2f.js.map",
     "787.199fd234.chunk.js.map": "/static/js/787.199fd234.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.db81f465.css",
-    "static/js/main.9195c555.js"
+    "static/css/main.ec2de9bf.css",
+    "static/js/main.65a0ee2f.js"
   ]
 }
