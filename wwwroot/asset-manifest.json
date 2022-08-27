@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.ec2de9bf.css",
-    "main.js": "/static/js/main.65a0ee2f.js",
+    "main.js": "/static/js/main.cbb05c4c.js",
     "static/js/787.199fd234.chunk.js": "/static/js/787.199fd234.chunk.js",
     "static/media/13665.jpg": "/static/media/13665.5bb62ceda21e4d276758.jpg",
     "static/media/cls_iridium-silver-metallic.png": "/static/media/cls_iridium-silver-metallic.cfe4b1d3d13be484d4b1.png",
@@ -54,11 +54,11 @@
     "static/media/Pricesvg.svg": "/static/media/Pricesvg.8be639d16015aad64a7be6f79c2a4a21.svg",
     "index.html": "/index.html",
     "main.ec2de9bf.css.map": "/static/css/main.ec2de9bf.css.map",
-    "main.65a0ee2f.js.map": "/static/js/main.65a0ee2f.js.map",
+    "main.cbb05c4c.js.map": "/static/js/main.cbb05c4c.js.map",
     "787.199fd234.chunk.js.map": "/static/js/787.199fd234.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ec2de9bf.css",
-    "static/js/main.65a0ee2f.js"
+    "static/js/main.cbb05c4c.js"
   ]
 }
