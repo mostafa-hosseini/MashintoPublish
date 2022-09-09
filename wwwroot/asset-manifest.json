@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.e0f9da72.css",
-    "main.js": "/static/js/main.718f3586.js",
+    "main.css": "/static/css/main.f74a87bf.css",
+    "main.js": "/static/js/main.535481c8.js",
     "static/js/787.199fd234.chunk.js": "/static/js/787.199fd234.chunk.js",
     "static/media/13665.jpg": "/static/media/13665.5bb62ceda21e4d276758.jpg",
     "static/media/cls_iridium-silver-metallic.png": "/static/media/cls_iridium-silver-metallic.cfe4b1d3d13be484d4b1.png",
@@ -48,22 +48,20 @@
     "static/media/peyda-bold.woff2": "/static/media/peyda-bold.ff40ad279997e73ae5b4.woff2",
     "static/media/001_c31.jpg": "/static/media/001_c31.6690a648281bbe0b34a8.jpg",
     "static/media/ford-logo.jpg": "/static/media/ford-logo.54d6a18525aa941f7508.jpg",
-    "static/media/carads.png": "/static/media/carads.8e93dfd09fba315ae706.png",
     "static/media/carReSearch.png": "/static/media/carReSearch.7bd9c5d3e70633fb8161.png",
     "static/media/chevrolet-logo.jpg": "/static/media/chevrolet-logo.3895d48e11c9367c0ad7.jpg",
     "static/media/calculPrice.png": "/static/media/calculPrice.55edb928cd0f933f0029.png",
-    "static/media/shop.png": "/static/media/shop.3e06ca0cd35ee966212d.png",
     "static/media/CarPrice.png": "/static/media/CarPrice.af961a24e310db7d67e2.png",
     "static/media/950476.png": "/static/media/950476.3cd85065bf61038d59cc.png",
     "static/media/1820633.png": "/static/media/1820633.325ec2c2bec2590fb63e.png",
     "static/media/Pricesvg.svg": "/static/media/Pricesvg.8be639d16015aad64a7be6f79c2a4a21.svg",
     "index.html": "/index.html",
-    "main.e0f9da72.css.map": "/static/css/main.e0f9da72.css.map",
-    "main.718f3586.js.map": "/static/js/main.718f3586.js.map",
+    "main.f74a87bf.css.map": "/static/css/main.f74a87bf.css.map",
+    "main.535481c8.js.map": "/static/js/main.535481c8.js.map",
     "787.199fd234.chunk.js.map": "/static/js/787.199fd234.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e0f9da72.css",
-    "static/js/main.718f3586.js"
+    "static/css/main.f74a87bf.css",
+    "static/js/main.535481c8.js"
   ]
 }
