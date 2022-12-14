@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.20957e22.css",
-    "main.js": "/static/js/main.3e7165de.js",
+    "main.css": "/static/css/main.e2ab67ed.css",
+    "main.js": "/static/js/main.f702f3ba.js",
     "static/js/988.e56cff5f.chunk.js": "/static/js/988.e56cff5f.chunk.js",
     "static/media/cls_iridium-silver-metallic.png": "/static/media/cls_iridium-silver-metallic.cfe4b1d3d13be484d4b1.png",
     "static/media/PeydaBold.ttf": "/static/media/PeydaBold.f159c5f311fcdeaead0c.ttf",
@@ -28,13 +28,17 @@
     "static/media/suv.png": "/static/media/suv.94b9ca8f30a79208eaf1.png",
     "static/media/banner7.jpg": "/static/media/banner7.ee4f3fd2ec8f6ca7b456.jpg",
     "static/media/convertible.png": "/static/media/convertible.f05f22ada4e4fbac8128.png",
+    "static/media/CalculatePrice.jpg": "/static/media/CalculatePrice.1228cbde86058e3c9903.jpg",
+    "static/media/DayliPriceDesk.png": "/static/media/DayliPriceDesk.0cc3e9fdea6058e72e77.png",
     "static/media/chart.png": "/static/media/chart.dd80017de6a8a0f00aba.png",
     "static/media/mashintologo.svg": "/static/media/mashintologo.c1d2a938c6c22f1e6d7fa6aadf78755e.svg",
+    "static/media/Price.png": "/static/media/Price.9c5a5ed55ee758ea5a72.png",
     "static/media/BMW-8.png": "/static/media/BMW-8.bb38f00752ebd096e0d2.png",
     "static/media/peyda-regular.woff": "/static/media/peyda-regular.1cc070b6b84c4805711a.woff",
     "static/media/shopMobile.jpg": "/static/media/shopMobile.a070e2927583076fb70a.jpg",
     "static/media/peyda-bold.woff": "/static/media/peyda-bold.8592b480060d073e5ad9.woff",
     "static/media/jpg": "/static/media/f524ebacc28b21e7249cdd8ee9c408d8.720f9909a3fac607ba8c.jpg",
+    "static/media/images.png": "/static/media/images.1a027e46c416eeffb48d.png",
     "static/media/2022_bmw_x3_xdrive30i_001_c3z.jpg": "/static/media/2022_bmw_x3_xdrive30i_001_c3z.fea18acc3f4036d11b73.jpg",
     "static/media/buyMobile.jpg": "/static/media/buyMobile.b76d5359294be3f5016a.jpg",
     "static/media/hachback.jpg": "/static/media/hachback.6b11d273baf71c6b706c.jpg",
@@ -44,20 +48,19 @@
     "static/media/smartCarFinder.png": "/static/media/smartCarFinder.375d3433781bf59268c8.png",
     "static/media/peyda-bold.woff2": "/static/media/peyda-bold.ff40ad279997e73ae5b4.woff2",
     "static/media/001_c31.jpg": "/static/media/001_c31.6690a648281bbe0b34a8.jpg",
+    "static/media/DayliPriceMobile.png": "/static/media/DayliPriceMobile.7327916efcf8252800ed.png",
     "static/media/unUsedCarMobile.jpg": "/static/media/unUsedCarMobile.7754d7ae6953f2ad3822.jpg",
     "static/media/carReSearch.png": "/static/media/carReSearch.7bd9c5d3e70633fb8161.png",
-    "static/media/calculPrice.png": "/static/media/calculPrice.55edb928cd0f933f0029.png",
-    "static/media/CarPrice.png": "/static/media/CarPrice.af961a24e310db7d67e2.png",
+    "static/media/CalculatePriceMobile.jpg": "/static/media/CalculatePriceMobile.f318778456ebd615fadd.jpg",
     "static/media/950476.png": "/static/media/950476.3cd85065bf61038d59cc.png",
     "static/media/1820633.png": "/static/media/1820633.325ec2c2bec2590fb63e.png",
-    "static/media/Pricesvg.svg": "/static/media/Pricesvg.8be639d16015aad64a7be6f79c2a4a21.svg",
     "index.html": "/index.html",
-    "main.20957e22.css.map": "/static/css/main.20957e22.css.map",
-    "main.3e7165de.js.map": "/static/js/main.3e7165de.js.map",
+    "main.e2ab67ed.css.map": "/static/css/main.e2ab67ed.css.map",
+    "main.f702f3ba.js.map": "/static/js/main.f702f3ba.js.map",
     "988.e56cff5f.chunk.js.map": "/static/js/988.e56cff5f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.20957e22.css",
-    "static/js/main.3e7165de.js"
+    "static/css/main.e2ab67ed.css",
+    "static/js/main.f702f3ba.js"
   ]
 }
