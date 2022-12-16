@@ -1,10 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.6ee76d38.css",
-    "main.js": "/static/js/main.1a7c7356.js",
+    "main.css": "/static/css/main.e64bc227.css",
+    "main.js": "/static/js/main.ba27eac3.js",
     "static/js/988.e56cff5f.chunk.js": "/static/js/988.e56cff5f.chunk.js",
-    "static/media/lamp.png": "/static/media/lamp.c4f3b766f8d867e5dcef.png",
-    "static/media/search.png": "/static/media/search.48f5d5fa8b994cdb6fbc.png",
     "static/media/cls_iridium-silver-metallic.png": "/static/media/cls_iridium-silver-metallic.cfe4b1d3d13be484d4b1.png",
     "static/media/PeydaBold.ttf": "/static/media/PeydaBold.f159c5f311fcdeaead0c.ttf",
     "static/media/1.png": "/static/media/1.12b0b3b6cff5d9dde36c.png",
@@ -41,8 +39,8 @@
     "static/media/peyda-regular.woff": "/static/media/peyda-regular.1cc070b6b84c4805711a.woff",
     "static/media/shopMobile.jpg": "/static/media/shopMobile.a070e2927583076fb70a.jpg",
     "static/media/peyda-bold.woff": "/static/media/peyda-bold.8592b480060d073e5ad9.woff",
+    "static/media/search.png": "/static/media/search.c4d03b1ee3c4571330a1.png",
     "static/media/jpg": "/static/media/f524ebacc28b21e7249cdd8ee9c408d8.720f9909a3fac607ba8c.jpg",
-    "static/media/images.png": "/static/media/images.1a027e46c416eeffb48d.png",
     "static/media/UnUsedCarMobile.jpg": "/static/media/UnUsedCarMobile.e78c663aae506bf08174.jpg",
     "static/media/2022_bmw_x3_xdrive30i_001_c3z.jpg": "/static/media/2022_bmw_x3_xdrive30i_001_c3z.fea18acc3f4036d11b73.jpg",
     "static/media/buyMobile.jpg": "/static/media/buyMobile.b76d5359294be3f5016a.jpg",
@@ -57,15 +55,17 @@
     "static/media/buyCarMobile.jpg": "/static/media/buyCarMobile.43a4b9168721f6df4d20.jpg",
     "static/media/unUsedCarMobile.jpg": "/static/media/unUsedCarMobile.7754d7ae6953f2ad3822.jpg",
     "static/media/CalculatePriceMobile.jpg": "/static/media/CalculatePriceMobile.f318778456ebd615fadd.jpg",
+    "static/media/images.png": "/static/media/images.05374836afcbd5457e5c.png",
     "static/media/950476.png": "/static/media/950476.3cd85065bf61038d59cc.png",
+    "static/media/lamp.png": "/static/media/lamp.68588e3ddd4bca28d6d7.png",
     "static/media/1820633.png": "/static/media/1820633.325ec2c2bec2590fb63e.png",
     "index.html": "/index.html",
-    "main.6ee76d38.css.map": "/static/css/main.6ee76d38.css.map",
-    "main.1a7c7356.js.map": "/static/js/main.1a7c7356.js.map",
+    "main.e64bc227.css.map": "/static/css/main.e64bc227.css.map",
+    "main.ba27eac3.js.map": "/static/js/main.ba27eac3.js.map",
     "988.e56cff5f.chunk.js.map": "/static/js/988.e56cff5f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6ee76d38.css",
-    "static/js/main.1a7c7356.js"
+    "static/css/main.e64bc227.css",
+    "static/js/main.ba27eac3.js"
   ]
 }
