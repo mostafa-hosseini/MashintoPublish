@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.08f133ea.css",
-    "main.js": "/static/js/main.8d5fb29c.js",
+    "main.js": "/static/js/main.da922702.js",
     "static/js/988.e56cff5f.chunk.js": "/static/js/988.e56cff5f.chunk.js",
     "static/media/cls_iridium-silver-metallic.png": "/static/media/cls_iridium-silver-metallic.cfe4b1d3d13be484d4b1.png",
     "static/media/PeydaBold.ttf": "/static/media/PeydaBold.f159c5f311fcdeaead0c.ttf",
@@ -22,11 +22,9 @@
     "static/media/mashintologo.svg": "/static/media/mashintologo.c1d2a938c6c22f1e6d7fa6aadf78755e.svg",
     "static/media/PCX22PROwheel.png": "/static/media/PCX22PROwheel.d1fb0e88ccad8c8c9ba1.png",
     "static/media/shopDesktop.jpg": "/static/media/shopDesktop.b2c3de60e91f7b2183b9.jpg",
-    "static/media/Price.png": "/static/media/Price.9c5a5ed55ee758ea5a72.png",
     "static/media/BMW-8.png": "/static/media/BMW-8.bb38f00752ebd096e0d2.png",
     "static/media/peyda-regular.woff": "/static/media/peyda-regular.1cc070b6b84c4805711a.woff",
     "static/media/peyda-bold.woff": "/static/media/peyda-bold.8592b480060d073e5ad9.woff",
-    "static/media/search.png": "/static/media/search.c4d03b1ee3c4571330a1.png",
     "static/media/jpg": "/static/media/f524ebacc28b21e7249cdd8ee9c408d8.720f9909a3fac607ba8c.jpg",
     "static/media/BuyDesktop.jpg": "/static/media/BuyDesktop.b48dbb4b586d6052cef0.jpg",
     "static/media/UnUsedCar.jpg": "/static/media/UnUsedCar.9da065fe68ee645b091d.jpg",
@@ -49,20 +47,20 @@
     "static/media/banner5.jpg": "/static/media/banner5.469eee1d96b9eecc7ca7.jpg",
     "static/media/DayliPriceDesk.png": "/static/media/DayliPriceDesk.aeea1599578725ad9117.png",
     "static/media/banner7.jpg": "/static/media/banner7.c5adda5d5dece77e7aaf.jpg",
-    "static/media/images.png": "/static/media/images.05374836afcbd5457e5c.png",
+    "static/media/Price.png": "/static/media/Price.44eaad53d668978b631a.png",
     "static/media/950476.png": "/static/media/950476.3cd85065bf61038d59cc.png",
     "static/media/shopMobile.jpg": "/static/media/shopMobile.ba118f8dcdbfc0a7c691.jpg",
-    "static/media/lamp.png": "/static/media/lamp.68588e3ddd4bca28d6d7.png",
     "static/media/1820633.png": "/static/media/1820633.325ec2c2bec2590fb63e.png",
+    "static/media/search.png": "/static/media/search.98f0bf128d1c4aaf322c.png",
     "static/media/UnUsedCarMobile.jpg": "/static/media/UnUsedCarMobile.1c32678d797ae05b66ae.jpg",
     "static/media/buyMobile.jpg": "/static/media/buyMobile.5fed378164da6b0b5b88.jpg",
     "index.html": "/index.html",
     "main.08f133ea.css.map": "/static/css/main.08f133ea.css.map",
-    "main.8d5fb29c.js.map": "/static/js/main.8d5fb29c.js.map",
+    "main.da922702.js.map": "/static/js/main.da922702.js.map",
     "988.e56cff5f.chunk.js.map": "/static/js/988.e56cff5f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.08f133ea.css",
-    "static/js/main.8d5fb29c.js"
+    "static/js/main.da922702.js"
   ]
 }
