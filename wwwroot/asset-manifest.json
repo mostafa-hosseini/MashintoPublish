@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.08f133ea.css",
-    "main.js": "/static/js/main.da922702.js",
+    "main.js": "/static/js/main.661c439e.js",
     "static/js/988.e56cff5f.chunk.js": "/static/js/988.e56cff5f.chunk.js",
     "static/media/cls_iridium-silver-metallic.png": "/static/media/cls_iridium-silver-metallic.cfe4b1d3d13be484d4b1.png",
     "static/media/PeydaBold.ttf": "/static/media/PeydaBold.f159c5f311fcdeaead0c.ttf",
@@ -56,11 +56,11 @@
     "static/media/buyMobile.jpg": "/static/media/buyMobile.5fed378164da6b0b5b88.jpg",
     "index.html": "/index.html",
     "main.08f133ea.css.map": "/static/css/main.08f133ea.css.map",
-    "main.da922702.js.map": "/static/js/main.da922702.js.map",
+    "main.661c439e.js.map": "/static/js/main.661c439e.js.map",
     "988.e56cff5f.chunk.js.map": "/static/js/988.e56cff5f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.08f133ea.css",
-    "static/js/main.da922702.js"
+    "static/js/main.661c439e.js"
   ]
 }
