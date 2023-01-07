@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.b85f92a7.css",
-    "main.js": "/static/js/main.a04b3179.js",
+    "main.js": "/static/js/main.f79063b9.js",
     "static/js/988.e56cff5f.chunk.js": "/static/js/988.e56cff5f.chunk.js",
     "static/media/cls_iridium-silver-metallic.png": "/static/media/cls_iridium-silver-metallic.cfe4b1d3d13be484d4b1.png",
     "static/media/PeydaBold.ttf": "/static/media/PeydaBold.f159c5f311fcdeaead0c.ttf",
@@ -18,7 +18,6 @@
     "static/media/suv.png": "/static/media/suv.94b9ca8f30a79208eaf1.png",
     "static/media/PCX22PROblack.png": "/static/media/PCX22PROblack.1b4b2c0806fe36d500a0.png",
     "static/media/convertible.png": "/static/media/convertible.f05f22ada4e4fbac8128.png",
-    "static/media/oilGuideDesktop.jpg": "/static/media/oilGuideDesktop.f7b7e0b09772f763e52e.jpg",
     "static/media/chart.png": "/static/media/chart.dd80017de6a8a0f00aba.png",
     "static/media/mashintologo.svg": "/static/media/mashintologo.c1d2a938c6c22f1e6d7fa6aadf78755e.svg",
     "static/media/PCX22PROwheel.png": "/static/media/PCX22PROwheel.d1fb0e88ccad8c8c9ba1.png",
@@ -46,7 +45,6 @@
     "static/media/banner2.jpg": "/static/media/banner2.6e885a55e9bf90fab42d.jpg",
     "static/media/CalculatePrice.jpg": "/static/media/CalculatePrice.ea9e46f3f893bdf3adfc.jpg",
     "static/media/banner5.jpg": "/static/media/banner5.469eee1d96b9eecc7ca7.jpg",
-    "static/media/OilGuideMobile.jpg": "/static/media/OilGuideMobile.d85f377d460e357a64a8.jpg",
     "static/media/DayliPriceDesk.png": "/static/media/DayliPriceDesk.aeea1599578725ad9117.png",
     "static/media/banner7.jpg": "/static/media/banner7.c5adda5d5dece77e7aaf.jpg",
     "static/media/Price.png": "/static/media/Price.44eaad53d668978b631a.png",
@@ -58,11 +56,11 @@
     "static/media/buyMobile.jpg": "/static/media/buyMobile.5fed378164da6b0b5b88.jpg",
     "index.html": "/index.html",
     "main.b85f92a7.css.map": "/static/css/main.b85f92a7.css.map",
-    "main.a04b3179.js.map": "/static/js/main.a04b3179.js.map",
+    "main.f79063b9.js.map": "/static/js/main.f79063b9.js.map",
     "988.e56cff5f.chunk.js.map": "/static/js/988.e56cff5f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b85f92a7.css",
-    "static/js/main.a04b3179.js"
+    "static/js/main.f79063b9.js"
   ]
 }
