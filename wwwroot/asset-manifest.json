@@ -1,7 +1,12 @@
 {
   "files": {
-    "main.css": "/static/css/main.a43b5479.css",
-    "main.js": "/static/js/main.6723a38c.js",
+    "main.css": "/static/css/main.844aad56.css",
+    "main.js": "/static/js/main.6035343b.js",
+    "static/js/713.3b215ff0.chunk.js": "/static/js/713.3b215ff0.chunk.js",
+    "static/js/943.992ec07d.chunk.js": "/static/js/943.992ec07d.chunk.js",
+    "static/js/253.6d8346df.chunk.js": "/static/js/253.6d8346df.chunk.js",
+    "static/js/92.176c6c02.chunk.js": "/static/js/92.176c6c02.chunk.js",
+    "static/js/674.2d00435b.chunk.js": "/static/js/674.2d00435b.chunk.js",
     "static/js/988.e56cff5f.chunk.js": "/static/js/988.e56cff5f.chunk.js",
     "static/media/cls_iridium-silver-metallic.png": "/static/media/cls_iridium-silver-metallic.cfe4b1d3d13be484d4b1.png",
     "static/media/PeydaBold.ttf": "/static/media/PeydaBold.f159c5f311fcdeaead0c.ttf",
@@ -55,12 +60,17 @@
     "static/media/UnUsedCarMobile.jpg": "/static/media/UnUsedCarMobile.1c32678d797ae05b66ae.jpg",
     "static/media/buyMobile.jpg": "/static/media/buyMobile.5fed378164da6b0b5b88.jpg",
     "index.html": "/index.html",
-    "main.a43b5479.css.map": "/static/css/main.a43b5479.css.map",
-    "main.6723a38c.js.map": "/static/js/main.6723a38c.js.map",
+    "main.844aad56.css.map": "/static/css/main.844aad56.css.map",
+    "main.6035343b.js.map": "/static/js/main.6035343b.js.map",
+    "713.3b215ff0.chunk.js.map": "/static/js/713.3b215ff0.chunk.js.map",
+    "943.992ec07d.chunk.js.map": "/static/js/943.992ec07d.chunk.js.map",
+    "253.6d8346df.chunk.js.map": "/static/js/253.6d8346df.chunk.js.map",
+    "92.176c6c02.chunk.js.map": "/static/js/92.176c6c02.chunk.js.map",
+    "674.2d00435b.chunk.js.map": "/static/js/674.2d00435b.chunk.js.map",
     "988.e56cff5f.chunk.js.map": "/static/js/988.e56cff5f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a43b5479.css",
-    "static/js/main.6723a38c.js"
+    "static/css/main.844aad56.css",
+    "static/js/main.6035343b.js"
   ]
 }
