@@ -1,10 +1,10 @@
 {
   "files": {
     "main.css": "/static/css/main.844aad56.css",
-    "main.js": "/static/js/main.ed50803a.js",
+    "main.js": "/static/js/main.53e3d5cd.js",
     "static/js/713.3b215ff0.chunk.js": "/static/js/713.3b215ff0.chunk.js",
     "static/js/943.992ec07d.chunk.js": "/static/js/943.992ec07d.chunk.js",
-    "static/js/253.6d8346df.chunk.js": "/static/js/253.6d8346df.chunk.js",
+    "static/js/253.81c97ad9.chunk.js": "/static/js/253.81c97ad9.chunk.js",
     "static/js/92.176c6c02.chunk.js": "/static/js/92.176c6c02.chunk.js",
     "static/js/674.2d00435b.chunk.js": "/static/js/674.2d00435b.chunk.js",
     "static/js/988.e56cff5f.chunk.js": "/static/js/988.e56cff5f.chunk.js",
@@ -61,16 +61,16 @@
     "static/media/buyMobile.jpg": "/static/media/buyMobile.5fed378164da6b0b5b88.jpg",
     "index.html": "/index.html",
     "main.844aad56.css.map": "/static/css/main.844aad56.css.map",
-    "main.ed50803a.js.map": "/static/js/main.ed50803a.js.map",
+    "main.53e3d5cd.js.map": "/static/js/main.53e3d5cd.js.map",
     "713.3b215ff0.chunk.js.map": "/static/js/713.3b215ff0.chunk.js.map",
     "943.992ec07d.chunk.js.map": "/static/js/943.992ec07d.chunk.js.map",
-    "253.6d8346df.chunk.js.map": "/static/js/253.6d8346df.chunk.js.map",
+    "253.81c97ad9.chunk.js.map": "/static/js/253.81c97ad9.chunk.js.map",
     "92.176c6c02.chunk.js.map": "/static/js/92.176c6c02.chunk.js.map",
     "674.2d00435b.chunk.js.map": "/static/js/674.2d00435b.chunk.js.map",
     "988.e56cff5f.chunk.js.map": "/static/js/988.e56cff5f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.844aad56.css",
-    "static/js/main.ed50803a.js"
+    "static/js/main.53e3d5cd.js"
   ]
 }
