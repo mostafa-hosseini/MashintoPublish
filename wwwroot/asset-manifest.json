@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.844aad56.css",
-    "main.js": "/static/js/main.53e3d5cd.js",
+    "main.css": "/static/css/main.c5ed981a.css",
+    "main.js": "/static/js/main.9f58b026.js",
     "static/js/713.3b215ff0.chunk.js": "/static/js/713.3b215ff0.chunk.js",
     "static/js/943.992ec07d.chunk.js": "/static/js/943.992ec07d.chunk.js",
     "static/js/253.81c97ad9.chunk.js": "/static/js/253.81c97ad9.chunk.js",
@@ -60,8 +60,8 @@
     "static/media/UnUsedCarMobile.jpg": "/static/media/UnUsedCarMobile.1c32678d797ae05b66ae.jpg",
     "static/media/buyMobile.jpg": "/static/media/buyMobile.5fed378164da6b0b5b88.jpg",
     "index.html": "/index.html",
-    "main.844aad56.css.map": "/static/css/main.844aad56.css.map",
-    "main.53e3d5cd.js.map": "/static/js/main.53e3d5cd.js.map",
+    "main.c5ed981a.css.map": "/static/css/main.c5ed981a.css.map",
+    "main.9f58b026.js.map": "/static/js/main.9f58b026.js.map",
     "713.3b215ff0.chunk.js.map": "/static/js/713.3b215ff0.chunk.js.map",
     "943.992ec07d.chunk.js.map": "/static/js/943.992ec07d.chunk.js.map",
     "253.81c97ad9.chunk.js.map": "/static/js/253.81c97ad9.chunk.js.map",
@@ -70,7 +70,7 @@
     "988.e56cff5f.chunk.js.map": "/static/js/988.e56cff5f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.844aad56.css",
-    "static/js/main.53e3d5cd.js"
+    "static/css/main.c5ed981a.css",
+    "static/js/main.9f58b026.js"
   ]
 }
