@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.c5ed981a.css",
-    "main.js": "/static/js/main.9f58b026.js",
+    "main.css": "/static/css/main.27a89282.css",
+    "main.js": "/static/js/main.b1bda670.js",
     "static/js/713.3b215ff0.chunk.js": "/static/js/713.3b215ff0.chunk.js",
     "static/js/943.992ec07d.chunk.js": "/static/js/943.992ec07d.chunk.js",
     "static/js/253.81c97ad9.chunk.js": "/static/js/253.81c97ad9.chunk.js",
@@ -24,6 +24,7 @@
     "static/media/PCX22PROblack.png": "/static/media/PCX22PROblack.1b4b2c0806fe36d500a0.png",
     "static/media/convertible.png": "/static/media/convertible.f05f22ada4e4fbac8128.png",
     "static/media/chart.png": "/static/media/chart.dd80017de6a8a0f00aba.png",
+    "static/media/718.jpeg": "/static/media/718.a9d5abdbcdfe7c69eddb.jpeg",
     "static/media/mashintologo.svg": "/static/media/mashintologo.c1d2a938c6c22f1e6d7fa6aadf78755e.svg",
     "static/media/PCX22PROwheel.png": "/static/media/PCX22PROwheel.d1fb0e88ccad8c8c9ba1.png",
     "static/media/shopDesktop.jpg": "/static/media/shopDesktop.b2c3de60e91f7b2183b9.jpg",
@@ -60,8 +61,8 @@
     "static/media/UnUsedCarMobile.jpg": "/static/media/UnUsedCarMobile.1c32678d797ae05b66ae.jpg",
     "static/media/buyMobile.jpg": "/static/media/buyMobile.5fed378164da6b0b5b88.jpg",
     "index.html": "/index.html",
-    "main.c5ed981a.css.map": "/static/css/main.c5ed981a.css.map",
-    "main.9f58b026.js.map": "/static/js/main.9f58b026.js.map",
+    "main.27a89282.css.map": "/static/css/main.27a89282.css.map",
+    "main.b1bda670.js.map": "/static/js/main.b1bda670.js.map",
     "713.3b215ff0.chunk.js.map": "/static/js/713.3b215ff0.chunk.js.map",
     "943.992ec07d.chunk.js.map": "/static/js/943.992ec07d.chunk.js.map",
     "253.81c97ad9.chunk.js.map": "/static/js/253.81c97ad9.chunk.js.map",
@@ -70,7 +71,7 @@
     "988.e56cff5f.chunk.js.map": "/static/js/988.e56cff5f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c5ed981a.css",
-    "static/js/main.9f58b026.js"
+    "static/css/main.27a89282.css",
+    "static/js/main.b1bda670.js"
   ]
 }
